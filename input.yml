@@ -1,0 +1,120 @@
+start:
+  extra_css: "hello"
+  debug: false
+  inline_images: false
+  close_button: true
+  badge:
+    background-color: "#48b95d"
+    size: "90"
+    unit: false
+  structure:
+    paragraph1: "paragraph1"
+    buttons:
+      elements:
+        button1:
+          link:
+            android: "https://www.runtastic.com/apps/android/results/lite?utm_source=runtastic.apps&utm_medium=iam.android&utm_campaign=2016-12-satellite-results-teaser"
+            ios: "https://www.runtastic.com/apps/iphone/results/lite?utm_source=runtastic.apps&utm_medium=iam.ios&utm_campaign=2016-12-satellite-results-teaser"
+
+  locales:
+    en:
+      headline: Transform Your Body in 12 Weeks
+      paragraph1: "<p>Today is your day for change! Join the thousands of users
+        who have transformed their lives and get your customized 12-week bodyweight
+        training plan. Get even stronger, fitter and healthier with Runtastic Results!</p>"
+      button1: Save Now
+      badge: Save More Than 50%
+    de:
+      headline: Wir motivieren dich 12 Wochen lang
+      paragraph1:
+        "<p>Jetzt ist deine Zeit für ein intensives Workout! Schließ dich
+        tausenden Nutzern an, die ihren Körper zur Gänze verändert haben. Hol dir
+        jetzt deinen persönlichen, 12-wöchigen Trainingsplan. Werde fitter und gesünder
+        mit Runtastic Results!</p>"
+      button1: Jetzt sparen
+      badge: Spare mehr als 50 %
+    fr:
+      headline: Transformez votre corps en 12 semaines
+      paragraph1: "<p>L'heure du changement est arrivée ! Rejoignez les milliers
+        d'utilisateurs qui ont changé de style de vie. Obtenez votre plan d'entraînement
+        personnalisé de 12 semaines pour un corps musclé et en bonne santé avec
+        Runtastic Results !</p>"
+      button1: Offre spéciale
+      badge: Économisez plus de 50 %
+    it:
+      headline: Trasforma il tuo corpo in 12 settimane
+      paragraph1: "<p>È il momento di cambiare! Unisciti alle migliaia di utenti
+        che hanno trasformato le loro vite con un allenamento personalizzato di
+        12 settimane. Mettiti in forma con Results!</p>"
+      button1: Risparmia subito
+      badge: Risparmia più del 50 %
+    es:
+      headline: Transfórmate en 12 semanas
+      paragraph1:
+        "<p>¡Hoy es un buen día para cambiar! Únete a los miles de usuarios
+        que han cambiado sus vidas y obtén tu plan de 12 semanas. Hazte más fuerte,
+        ponte en forma y vive una vida más sana con Runtastic Results. </p>"
+      button1: Ahorra ahora
+      badge: Ahora más del 50%
+    ja:
+      headline: 12週間で肉体改造
+      paragraph1: "<p>カラダが変わる、あなたが変わる−−すでに世界中のユーザーが筋トレアプリ『Results』で肉体改造を達成。ストイックな筋トレメニューであなたのボディとマインドを鍛えましょう！</p>"
+      button1: 今すぐ挑戦
+      badge: 今なら50%OFF
+    zh-cn:
+      headline: "在12周内改变你的身材  "
+      paragraph1: "<p>今天是你身材大转型的日子啦。快来加入大家的行列，获取为期12周的个性化体重训练计划。让Results帮你变得更强壮，自信和健康。</p>"
+      button1: "现在就省钱 "
+      badge: 节省超过50%
+    ko:
+      headline: 12주간 몸매변화에 동기를 부여해 드립니다
+      paragraph1:
+        "<p>오늘 바로 삶의 변화를 시작해 보세요. 런타스틱 리절츠 근력 강화 앱으로 맞춤형 12주간 플랜을 완성하여
+        체력을 단련시키고 건강을 지키세요. 누구나 할 수 있습니다.</p>"
+      button1: 지금 할인받기
+      badge: 50%이상 할인받기
+    ru:
+      headline: Преобрази своё тело за 12 недель
+      paragraph1: "<p>Сегодня - твой день! Измени свою жизнь к лучшему с помощью
+        индивидуальной программы тренировок без оборудования. Сбрось лишний вес,
+        стань сильнее и укрепи здоровье с Runtastic Results!</p>"
+      button1: Получить скидку
+      badge: Выгода более 50%
+    pt-br:
+      headline: Transforme seu corpo em 12 semanas
+      paragraph1:
+        "<p>Chegou a hora da transformação! Muitos já começaram a transformar
+        suas vidas com o plano personalizado de 12 semanas. E você? Fique mais forte
+        e saudável com o Runtastic Results!</p>"
+      button1: Economize já
+      badge: Economize mais de 50%
+    tr:
+      headline: Vücudunu 12 Haftada Dönüştür
+      paragraph1:
+        "<p>Bugün değişim günün! Hayatlarını değiştiren binlerce kişiye
+        katıl ve 12 haftalık değişim planına bugün başla. Daha da güçlen ve Runtastic
+        Results ile daha fit & sağlıklı ol!</p>"
+      button1: Şimdi Tasarruf Et
+      badge: "%50'den Fazla Tasarruf Et"
+    zh-tw:
+      headline: 12週內轉變你的身材
+      paragraph1:
+        "<p>今天是改變的日子! 快加入大家的行列，得到個人專屬的12週訓練計畫。用Runtastic Results活出健康與維持苗條!
+        </p>"
+      button1: 享受優惠
+      badge: 享受超過半折優惠
+    pl:
+      headline: Zmień swoje życie w 12 tygodni
+      paragraph1: "<p>Dziś jest TEN dzień! Pobierz swój 12-tyg. plan treningowy
+        i zmień swoje życie nie do poznania! Z aplikacją Runtastic Results poprawisz
+        swoją kondycję i zdrowie! Jeśli nie dziś, to kiedy?</p>"
+      button1: Zaoszczędź teraz
+      badge: Zaoszczędź ponad 50%
+    cs:
+      headline: Proměň své tělo za 12 týdnů
+      paragraph1:
+        "<p>Dnešek je dokonalý den na změnu! Přidej se k tisícům uživatelů,
+        kteří změnili své životy a získej individuální bodyweight tréninkový plán.
+        Buď zdravější, silnější a fit s Runtastic Results.</p>"
+      button1: Ušetřit nyní
+      badge: Ušetři více než 50 %
